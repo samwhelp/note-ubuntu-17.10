@@ -1,0 +1,32 @@
+
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-topbar">
+	<a class="navbar-brand" href="{{ site.baseurl | append: '/' | escape }}" title="{{ site.title | escape }}">{{ site.title | escape }}</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarCollapse">
+		<ul class="navbar-nav mr-auto">
+			<li class="nav-item">
+				<a class="nav-link" href="{{ '/read/subject/' | prepend: site.baseurl | escape }}" title="Subject">Subject</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="{{ '/read/link/tool' | prepend: site.baseurl | escape }}" title="Tool">Tool</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="{{ '/read/blog/' | prepend: site.baseurl | escape }}" title="Blog">Blog</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="https://github.com/samwhelp/note-ubuntu-17.10" target="_blank" title="Github">GitHub</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="{{ '/read/link/ubuntu/' | prepend: site.baseurl | escape }}" target="_blank" title="Link">Link</a>
+			</li>
+		</ul>
+
+		<form class="form-inline mt-2 mt-md-0" target="_blank" accept-charset="utf-8" method="get" action="//www.google.com/search">
+			<input type="search" id="search_top" required="required" class="form-control mr-sm-2 ipt-keyword" placeholder="Type to search..." maxlength="20" name="q" aria-label="Search">
+			<input type="hidden" value="http://samwhelp.github.io/note-ubuntu-17.10/" name="sitesearch">
+			<button class="btn btn-outline-info my-2 my-sm-0" type="submit">Search</button>
+		</form>
+	</div>
+</nav>

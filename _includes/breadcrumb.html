@@ -1,0 +1,6 @@
+
+			<ol class="breadcrumb">
+				<li class="breadcrumb-item" ><a itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="url" href="{{ site.baseurl | append: '/' | escape }}" title="{{ site.title | escape }}"><span itemprop="title">探索筆記</span></li></a>
+				{% if page.parent %}<li class="breadcrumb-item" ><a itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="url" href="{{ page.parent.url | prepend: site.baseurl | escape }}" title="{{ page.parent.title | escape}}"><span itemprop="title">{{ page.parent.title | escape}}</span></a></li>{% endif %}
+				{% if page.title %}<li class="breadcrumb-item" ><a itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="url" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | escape }}" ><span itemprop="title">{{ page.title | escape }}</span></a></li>{% endif %}
+			</ol>

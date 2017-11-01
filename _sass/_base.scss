@@ -1,0 +1,73 @@
+/*
+body {
+
+	background-color: #d7ccc8;
+	color: #3e2723;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	font-size: 18px;
+
+}
+
+main {
+	flex: 1 0 auto;
+}
+*/
+
+/*
+http://getbootstrap.com/docs/4.0/examples/
+http://getbootstrap.com/docs/4.0/examples/sticky-footer-navbar/
+http://getbootstrap.com/docs/4.0/examples/sticky-footer-navbar/sticky-footer-navbar.css
+*/
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+
+	background-color: #303030;
+	color: #eee;
+/*
+	background-color: #404040;
+	color: #eee;
+*/
+/*
+	background-image: url("/note-ubuntu-17.10/asset/img/bg.png");
+*/
+	font-size: 18px;
+
+	/* Margin bottom by footer height */
+	margin-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height: 60px;
+	line-height: 60px; /* Vertically center the text there */
+	background-color: #f5f5f5;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+	padding: 60px 15px 0;
+}
+
+.footer > .container {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+code {
+	font-size: 80%;
+}

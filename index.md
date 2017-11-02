@@ -28,49 +28,49 @@ source_url: '/index.md'
 * 「[gnome-tweak-tool](https://packages.ubuntu.com/artful/gnome-tweak-tool)」
 
 
-## ISO檔下載點
+## ISO檔
 
-* 「[#6](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358650#forumpost358650)」 ([包含[Ubuntu flavours](https://www.ubuntu.com/download/ubuntu-flavours))
+* [下載點](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358650#forumpost358650) ([包含「Ubuntu flavours」](https://www.ubuntu.com/download/ubuntu-flavours))
 
 
 ## 套件操作
 
-* 「[#23](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358816#forumpost358816)」 (關於「apt-get download some_package」)
-* 「[#24](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358818#forumpost358818)」 (執行「apt-get source some_package」的前置作業 (下載「Source Package」的前置作業))
+* [關於「apt-get download some_package」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358816#forumpost358816)
+* [執行「apt-get source some_package」的前置作業 (下載「Source Package」的前置作業)](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358818#forumpost358818)
 
 
 ## 關於「gnome-control-center」
 
-* 「[#25](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358820#forumpost358820)」 (如何找到「gnome-control-center」的「panel」指令)
+* [如何找到「gnome-control-center」的「panel」指令](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358820#forumpost358820)
 
 
 ## 關於「gnome-tweak-tool」
 
-* 「[#26](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358822#forumpost358822)」 (如何探索「gnome-tweak-tool」)
-* 「[#27](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358824#forumpost358824)」 (如何探索「GNOME Tweak Tool / Top Bar」)
+* [如何探索「gnome-tweak-tool」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358822#forumpost358822)
+* [如何探索「GNOME Tweak Tool / Top Bar」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358824#forumpost358824)
 
 
 ## 如何查詢「桌面環境(GNOME)」的快速鍵
 
-* 「[#28](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358826#forumpost358826)」 (常用快速鍵整理)
-* 「[#29](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358828#forumpost358828)」 (關於「gnome-control-center keyboard」)
-* 「[#30](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358830#forumpost358830)」 (關於「gnome-shell-extension-shortcuts」)
+* [常用快速鍵整理](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358826#forumpost358826)
+* [關於「gnome-control-center keyboard」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358828#forumpost358828)
+* [關於「gnome-shell-extension-shortcuts」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358830#forumpost358830)
 
 
 ## 關於「gnome-shell-extension」
 
-* 「[#31](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358832#forumpost358832)」 (關於「Gnome Shell」的「Looking Glass」操作使用)
-* 「[#32](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358834#forumpost358834)」 (關於「imports.searchPath」）
-* 「[#33](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358836#forumpost358836)」 (如何開發「gnome-extension」）
-* 「[#34](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358838#forumpost358838)」 (如何透過安裝套件的方式，安裝額外的「gnome-extension」)
+* [關於「Gnome Shell」的「Looking Glass」操作使用](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358832#forumpost358832)
+* [關於「imports.searchPath」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358834#forumpost358834)
+* [如何開發「gnome-extension」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358836#forumpost358836)
+* [如何透過安裝套件的方式，安裝額外的「gnome-extension」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358838#forumpost358838)
 
 
 ## 關於「NetworManager」的「nm-applet」和「nm-applet」
 
-* 「[#8](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358654#forumpost358654)」 (如何透過新增連線設定)
-* 「[#13](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358664#forumpost358664)」 (指令 nm-connection-editor 和 nm-applet)
-* 「[#20](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358722#forumpost358722)」 (如何進入桌面後啟動nm-applet)
-
+* [如何透過新增連線設定](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358654#forumpost358654)
+* [關於「nm-connection-editor」和「nm-applet」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358664#forumpost358664)
+* [如何進入桌面後啟動「nm-applet」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358722#forumpost358722)
+* [關於「nmtui」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358810#forumpost358810)
 
 ## 輸入法
 
@@ -80,17 +80,17 @@ source_url: '/index.md'
 
 ## 關於「gedit」
 
-* 「[#35](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358840#forumpost358840)」 (如何查詢「gedit」的快速鍵）
-* 「[#36](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358842#forumpost358842)」 (如何透過安裝套件的方式，安裝額外的「gedit-plugin」)
-* 「[#37](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358844#forumpost358844)」 (設定讓「gedit」，可以辨識「big5編碼的檔案」）
-* 「[#38](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358846#forumpost358846)」 (關於「gedit」的「color scheme」)
+* [如何查詢「gedit」的快速鍵](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358840#forumpost358840)
+* [如何透過安裝套件的方式，安裝額外的「gedit-plugin」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358842#forumpost358842)
+* [設定讓「gedit」，可以辨識「big5編碼的檔案」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358844#forumpost358844)
+* [關於「gedit」的「color scheme」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358846#forumpost358846)
 
 
 ## 關於「gnome-builder」
 
-* 「[#39](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358848#forumpost358848)」 (如何安裝)
+* [如何安裝「gnome-builder」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358848#forumpost358848)
 
 
 ## 關於「tilix」
 
-* 「[#40](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358850#forumpost358850)」 (如何安裝)
+* [如何安裝「tilix」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358850#forumpost358850)

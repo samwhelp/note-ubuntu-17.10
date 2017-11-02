@@ -2,10 +2,10 @@
 
 if [ $# -lt 1 ]; then
 	echo 'Usage:'
-	echo '$ ./set <scheme>'
+	echo '$ ./set.sh <scheme>'
 	echo
 	echo 'Ex:'
-	echo '$ ./set oblivion'
+	echo '$ ./set.sh oblivion'
 	exit 1
 fi
 

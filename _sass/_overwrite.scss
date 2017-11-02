@@ -1,6 +1,9 @@
 
 a {
 	color: rgba(230, 123, 0, 1);
+	
+	outline: none; /* Firefox, Google Chrome */
+	behavior:expression(this.onFocus=this.blur()); /* IE */
 }
 
 a:hover {

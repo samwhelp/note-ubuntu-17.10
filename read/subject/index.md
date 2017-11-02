@@ -2,11 +2,11 @@
 layout: page
 title: 主題
 description: >
-  問答主題索引。
+  過往問答主題索引。
 source_url: '/read/subject/index.md'
 ---
 
-## 索引
+## 過往問答主題索引
 
 * [如何執行指令](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=348698#forumpost348698)
 * [套件操作實務](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=333562#forumpost333562)

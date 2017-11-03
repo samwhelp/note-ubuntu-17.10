@@ -336,7 +336,7 @@ $ cat /usr/lib/x86_64-linux-gnu/gedit/plugins/findinfiles.plugin
 
 顯示
 
-```
+``` ini
 [Plugin]
 Module=findinfiles
 IAge=3
@@ -402,7 +402,7 @@ $ cat /usr/share/metainfo/gedit-findinfiles.metainfo.xml
 
 顯示
 
-```
+``` xml
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="addon">
   <id>gedit-findinfiles</id>

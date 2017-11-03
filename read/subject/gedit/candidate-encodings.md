@@ -6,7 +6,7 @@ description: >
 parent:
   title: 關於「gedit」
   url: '/read/subject/gedit'
-source_url: '/read/subject/gedit/shortcut.md'
+source_url: '/read/subject/gedit/candidate-encodings.md'
 ---
 
 

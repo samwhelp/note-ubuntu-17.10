@@ -233,7 +233,6 @@ $ apt-cache showsrc gedit-plugin-find-in-files | grep '^Binary:' -B 2
 Package: gedit-plugins
 Format: 3.0 (quilt)
 Binary: gedit-plugins, gedit-plugins-common, gedit-plugin-bookmarks, gedit-plugin-bracket-completion, gedit-plugin-character-map, gedit-plugin-code-comment, gedit-plugin-color-picker, gedit-plugin-color-schemer, gedit-plugin-commander, gedit-plugin-dashboard, gedit-plugin-draw-spaces, gedit-plugin-find-in-files, gedit-plugin-git, gedit-plugin-join-lines, gedit-plugin-multi-edit, gedit-plugin-smart-spaces, gedit-plugin-synctex, gedit-plugin-terminal, gedit-plugin-text-size, gedit-plugin-word-completion, gedit-plugin-zeitgeist
-
 ```
 
 可以了解到這些單一套件，都是來自於「[gedit-plugins](https://packages.ubuntu.com/source/artful/gedit-plugins)」這個「Source Package」。

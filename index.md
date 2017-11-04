@@ -65,6 +65,16 @@ source_url: '/index.md'
 * [如何透過安裝套件的方式，安裝額外的「gnome-extension」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358838#forumpost358838)
 
 
+## 關於「螢幕鎖定按鈕」
+
+* [如何透過「gsettings」設定顯示或隱藏「螢幕鎖定按鈕」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358892#forumpost358892)
+
+
+## 關於「日曆(Calendar)」
+
+* [TarBar 日曆下拉選單的開啟與關閉](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358886#forumpost358886)
+
+
 ## 關於「NetworManager」的「nm-applet」和「nm-applet」
 
 * [如何透過新增連線設定](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358654#forumpost358654)

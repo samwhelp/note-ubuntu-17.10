@@ -39,6 +39,12 @@ source_url: '/index.md'
 * [執行「apt-get source some_package」的前置作業 (下載「Source Package」的前置作業)](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358818#forumpost358818)
 
 
+## 關於「gsettings」
+
+* [關於「gsettings schema」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358926#forumpost358926)
+* [關於「gsettings schema override」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358928#forumpost358928)
+* [關於「compile schemas triggger」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358930#forumpost358930)
+
 ## 關於「gnome-control-center」
 
 * [如何找到「gnome-control-center」的「panel」指令](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358820#forumpost358820)
@@ -68,6 +74,7 @@ source_url: '/index.md'
 ## 關於「螢幕鎖定按鈕」
 
 * [如何透過「gsettings」設定顯示或隱藏「螢幕鎖定按鈕」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358892#forumpost358892)
+* [探索「螢幕鎖定按鈕」顯示或隱藏的實做原始碼](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358938#forumpost358938)
 
 
 ## 關於「日曆(Calendar)」
@@ -84,7 +91,7 @@ source_url: '/index.md'
 
 ## 輸入法
 
-* 「#?」 (ibus)
+* [關於「gnome-shell」啟動「ibus-daemon」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358940#forumpost358940)
 * 「#?」 (fcitx-chewing)
 
 

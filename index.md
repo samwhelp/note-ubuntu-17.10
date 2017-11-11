@@ -26,6 +26,10 @@ source_url: '/index.md'
 * 「[gnome-shell](https://packages.ubuntu.com/artful/gnome-shell)」
 * 「[gnome-control-center](https://packages.ubuntu.com/artful/gnome-control-center)」
 * 「[gnome-tweak-tool](https://packages.ubuntu.com/artful/gnome-tweak-tool)」
+* 「[gnome-settings-daemon](https://packages.ubuntu.com/artful/gnome-settings-daemon)」
+* 「[gnome-settings-daemon-schemas](https://packages.ubuntu.com/artful/gnome-settings-daemon-schemas)」
+* 「[libglib2.0-bin](https://packages.ubuntu.com/artful/libglib2.0-bin)」
+* 「[libglib2.0-0](https://packages.ubuntu.com/artful/libglib2.0-0)」
 
 
 ## ISO檔
@@ -77,6 +81,12 @@ source_url: '/index.md'
 
 * [如何透過「gsettings」設定顯示或隱藏「螢幕鎖定按鈕」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358892#forumpost358892)
 * [探索「螢幕鎖定按鈕」顯示或隱藏的實做原始碼](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358938#forumpost358938)
+
+
+## 關於「Night Light」
+
+* [如何透過「gsettings」設定「Night Light」的相關參數](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358968#forumpost358968)
+* [關於「Night Light 設定」的「Daemon」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358970#forumpost358970)
 
 
 ## 關於「日曆(Calendar)」

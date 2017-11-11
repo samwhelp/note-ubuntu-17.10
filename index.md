@@ -53,7 +53,7 @@ source_url: '/index.md'
 
 ## 關於「gnome-control-center」
 
-* [如何找到「gnome-control-center」的「panel」指令](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358820#forumpost358820)
+* [如何找到「gnome-control-center」各個「panel」指令](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358820#forumpost358820)
 
 
 ## 關於「gnome-tweak-tool」

@@ -10,6 +10,7 @@ source_url: '/read/subject/index.md'
 ## Ubuntu 17.10 (Artful Aardvark)
 
 * [關於「gjs」](/note-ubuntu-17.10/read/about/gjs)
+* [關於「gnome-control-center」](/note-ubuntu-17.10/read/about/gnome-control-center)
 * [關於「gedit」](/note-ubuntu-17.10/read/subject/gedit)
 
 

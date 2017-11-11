@@ -37,6 +37,7 @@ source_url: '/index.md'
 
 * [關於「apt-get download some_package」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358816#forumpost358816)
 * [執行「apt-get source some_package」的前置作業 (下載「Source Package」的前置作業)](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358818#forumpost358818)
+* [關於「Ubuntu flavours」和 「MetaPackages」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358954#forumpost358954)
 
 
 ## 關於「gsettings」
@@ -44,6 +45,7 @@ source_url: '/index.md'
 * [關於「gsettings schema」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358926#forumpost358926)
 * [關於「gsettings schema override」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358928#forumpost358928)
 * [關於「compile schemas triggger」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358930#forumpost358930)
+* [關於「Gio.Settings」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358950#forumpost358950)
 
 ## 關於「gnome-control-center」
 
@@ -92,7 +94,7 @@ source_url: '/index.md'
 ## 輸入法
 
 * [關於「gnome-shell」啟動「ibus-daemon」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358940#forumpost358940)
-* 「#?」 (fcitx-chewing)
+* [關於「fcitx-chewing」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358948#forumpost358948)
 
 
 ## 關於「gedit」

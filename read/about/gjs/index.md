@@ -12,7 +12,7 @@ source_url: '/read/about/gjs/index.md'
 
 ## 文件
 
-* [參考資源](/note-ubuntu-17.10/read/about/gjs/reference.html)
+* [參考資源](reference.html)
 
 
 ## 測試環境

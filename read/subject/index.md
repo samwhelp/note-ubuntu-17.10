@@ -6,6 +6,13 @@ description: >
 source_url: '/read/subject/index.md'
 ---
 
+
+## Ubuntu 17.10 (Artful Aardvark)
+
+* [關於「gjs」](/note-ubuntu-17.10/read/about/gjs)
+* [關於「gedit」](/note-ubuntu-17.10/read/subject/gedit)
+
+
 ## 過往問答主題索引
 
 * [如何執行指令](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=348698#forumpost348698)
@@ -21,9 +28,3 @@ source_url: '/read/subject/index.md'
 * [驅動程式](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=333550#forumpost333550)
 * [開機流程](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=333548#forumpost333548)
 * [使用者管理](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=333572#forumpost333572)
-
-
-## Ubuntu 17.10 (Artful Aardvark)
-
-* [關於「gjs」](/note-ubuntu-17.10/read/about/gjs)
-* [關於「gedit」](/note-ubuntu-17.10/read/subject/gedit)

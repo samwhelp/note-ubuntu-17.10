@@ -25,7 +25,7 @@ $ man [gnome-control-center](http://manpages.ubuntu.com/manpages/artful/en/man1/
 執行
 
 ``` sh
-$ dpkg -L gnome-control-center | grep '\.desktop'
+$ dpkg -L gnome-control-center | grep '\.desktop$'
 ```
 
 顯示
@@ -142,7 +142,7 @@ $ gnome-control-center keyboard
 ``` sh
 #!/usr/bin/env bash
 
-for DESKTOP_FILE in $(dpkg -L gnome-control-center | grep '\.desktop') ; do
+for DESKTOP_FILE in $(dpkg -L gnome-control-center | grep '\.desktop$') ; do
 	## echo $DESKTOP_FILE
 	grep '^Exec=' $DESKTOP_FILE | cut -d '=' -f 2
 done

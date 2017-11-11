@@ -10,6 +10,11 @@ source_url: '/read/subject/gedit/shortcut.md'
 ---
 
 
+## 原始討論
+
+* [#35 回覆: Ubuntu 17.10 推出](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358840#forumpost358840)
+
+
 ## 測試環境
 
 * gedit: 3.22.1

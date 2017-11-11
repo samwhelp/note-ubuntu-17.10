@@ -10,6 +10,11 @@ source_url: '/read/subject/gedit/plugin.md'
 ---
 
 
+## 原始討論
+
+* [#36 回覆: Ubuntu 17.10 推出](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358842#forumpost358842)
+
+
 ## Recipe
 
 * [gedit/plugin](https://github.com/samwhelp/note-ubuntu-17.10/tree/gh-pages/recipe/gedit/plugin)

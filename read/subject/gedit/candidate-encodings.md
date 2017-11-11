@@ -10,6 +10,11 @@ source_url: '/read/subject/gedit/candidate-encodings.md'
 ---
 
 
+## 原始討論
+
+* [#37 回覆: Ubuntu 17.10 推出](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358844#forumpost358844)
+
+
 ## 相關討論
 
 * [#2 回覆: gedit 亂碼問題](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=318884#forumpost318884)

@@ -1,4 +1,9 @@
 
+## 發布討論
+
+* [關於「Gio.Settings.bind」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358980#forumpost358980)
+
+
 ## 相關討論
 
 * [如何透過「gsettings」設定「Night Light」的相關參數](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358968#forumpost358968)

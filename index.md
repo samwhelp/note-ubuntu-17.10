@@ -49,7 +49,13 @@ source_url: '/index.md'
 * [關於「gsettings schema」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358926#forumpost358926)
 * [關於「gsettings schema override」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358928#forumpost358928)
 * [關於「compile schemas triggger」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358930#forumpost358930)
+
+
+## 關於「Gio.Settings」
+
 * [關於「Gio.Settings」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358950#forumpost358950)
+* [關於「Gio.Settings.bind」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358980#forumpost358980)
+
 
 ## 關於「gnome-control-center」
 

@@ -15,7 +15,7 @@ int main (string[] args) {
 
 	var spin = new SpinButton.with_range(
 		1000,
-		7000,
+		10000,
 		100
 	);
 	win.add (spin);

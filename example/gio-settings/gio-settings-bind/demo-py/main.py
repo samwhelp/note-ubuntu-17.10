@@ -15,7 +15,7 @@ def main():
 
 	spin = Gtk.SpinButton.new_with_range(
 		1000,
-		7000,
+		10000,
 		100
 	)
 	win.add(spin)

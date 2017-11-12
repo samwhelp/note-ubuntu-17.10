@@ -23,7 +23,7 @@ var Win = new Lang.Class({
 
 		this.spin = Gtk.SpinButton.new_with_range(
 			1000,
-			7000,
+			10000,
 			100
 		);
 		this.win.add(this.spin);

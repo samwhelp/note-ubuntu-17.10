@@ -57,6 +57,15 @@ source_url: '/index.md'
 * [關於「Gio.Settings.bind」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358980#forumpost358980)
 
 
+## 關於「gsettings」使用案例
+
+* [如何透過「gsettings」設定顯示或隱藏「螢幕鎖定按鈕」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358892#forumpost358892)
+* [如何透過「gsettings」設定「Night Light」的相關參數](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358968#forumpost358968)
+* [設定讓「gedit」，可以辨識「big5編碼的檔案」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358844#forumpost358844)
+* [如何透過「gsettings」設定桌布](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359040#forumpost359040)
+* [如何透過「gsettings」設定「桌面」顯示「ICON」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359044#forumpost359044)
+
+
 ## 關於「gnome-control-center」
 
 * [如何找到「gnome-control-center」各個「panel」指令](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358820#forumpost358820)
@@ -93,6 +102,18 @@ source_url: '/index.md'
 
 * [如何透過「gsettings」設定「Night Light」的相關參數](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358968#forumpost358968)
 * [關於「Night Light 設定」的「Daemon」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358970#forumpost358970)
+* [關於在「Ubuntu Budgie」，「Panel」上的「Night Light 設定」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358974#forumpost358974)
+
+
+## 關於「桌布」
+
+* [如何透過「gsettings」設定桌布](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359040#forumpost359040)
+
+
+## 關於「桌面顯示ICON」
+
+* [如何透過「gsettings」設定「桌面」顯示「ICON」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359044#forumpost359044)
+* [關於「AutostartCondition」for「Desktop Entry」in「GNOME Session」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359046#forumpost359046)
 
 
 ## 關於「日曆(Calendar)」

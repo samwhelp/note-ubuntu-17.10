@@ -7,6 +7,8 @@
 ## * https://lazka.github.io/pgi-docs/#Nautilus-3.0
 ## * https://lazka.github.io/pgi-docs/#GLib-2.0
 ## * https://lazka.github.io/pgi-docs/#Gtk-3.0
+## * https://lazka.github.io/pgi-docs/#Gio-2.0
+## * https://lazka.github.io/pgi-docs/#GObject-2.0
 ## * https://wiki.gnome.org/Projects/NautilusPython
 ### Reference ###
 

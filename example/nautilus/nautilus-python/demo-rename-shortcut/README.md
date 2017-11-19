@@ -1,5 +1,5 @@
 
-# nautilus-python / demo-rename
+# nautilus-python / demo-rename-shortcut
 
 
 ## 緣起
@@ -45,10 +45,10 @@ $ sudo apt-get install python-nautilus
 執行
 
 ``` sh
-$ wget -c https://raw.githubusercontent.com/samwhelp/note-ubuntu-17.10/gh-pages/example/nautilus/nautilus-python/demo-rename/rename.py
+$ wget -c https://raw.githubusercontent.com/samwhelp/note-ubuntu-17.10/gh-pages/example/nautilus/nautilus-python/demo-rename-shortcut/rename.py
 ```
 
-會下載一個檔案「[rename.py](https://github.com/samwhelp/note-ubuntu-17.10/blob/gh-pages/example/nautilus/nautilus-python/demo-rename/rename.py)」。
+會下載一個檔案「[rename.py](https://github.com/samwhelp/note-ubuntu-17.10/blob/gh-pages/example/nautilus/nautilus-python/demo-rename-shortcut/rename.py)」。
 
 以下擇一即可。
 

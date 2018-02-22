@@ -42,6 +42,8 @@ source_url: '/index.md'
 * [關於「apt-get download some_package」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358816#forumpost358816)
 * [執行「apt-get source some_package」的前置作業 (下載「Source Package」的前置作業)](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358818#forumpost358818)
 * [關於「Ubuntu flavours」和 「MetaPackages」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358954#forumpost358954)
+* [如何從「Source Package」查詢「Binary Package」列表](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359454#forumpost359454)
+* [關於「ubuntu-restricted-extras」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359438#forumpost359438)
 
 
 ## 關於「gsettings」

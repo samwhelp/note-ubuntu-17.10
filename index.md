@@ -152,3 +152,8 @@ source_url: '/index.md'
 ## 關於「tilix」
 
 * [如何安裝「tilix」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358850#forumpost358850)
+
+
+## 關於影音播放
+
+* [播放工具整理](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359478#forumpost359478)

@@ -37,6 +37,11 @@ source_url: '/index.md'
 * [下載點](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358650#forumpost358650) ([包含「Ubuntu flavours」](https://www.ubuntu.com/download/ubuntu-flavours))
 
 
+## 關於「LiveUSB」
+
+* [LiveUSB 製作工具整理](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359230#forumpost359230)
+
+
 ## 套件操作
 
 * [關於「apt-get download some_package」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358816#forumpost358816)
@@ -154,6 +159,6 @@ source_url: '/index.md'
 * [如何安裝「tilix」](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=358850#forumpost358850)
 
 
-## 關於影音播放
+## 關於「影音播放」
 
 * [播放工具整理](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359478#forumpost359478)

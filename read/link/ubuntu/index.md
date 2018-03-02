@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ubuntu 常用連結
+date: 2017-11-01 17:15:12 +0800
 description: >
   Ubuntu 常用連結。
 parent:
@@ -34,6 +35,14 @@ source_url: '/read/link/ubuntu/index.md'
 * Ubuntu Wiki / [UbuntuFlavors](https://wiki.ubuntu.com/UbuntuFlavors)
 * [https://www.ubuntu.com/download/ubuntu-flavours](https://www.ubuntu.com/download/ubuntu-flavours)
 * [https://www.ubuntu.com/about/about-ubuntu/flavours](https://www.ubuntu.com/about/about-ubuntu/flavours)
+
+## Ubuntu Wiki
+
+* [Releases](https://wiki.ubuntu.com/Releases)
+* [ArtfulAardvark](https://wiki.ubuntu.com/ArtfulAardvark)
+* ArtfulAardvark / [Release Notes](https://wiki.ubuntu.com/ArtfulAardvark/ReleaseNotes)
+* ArtfulAardvark / [Release Schedule](https://wiki.ubuntu.com/ArtfulAardvark/ReleaseSchedule)
+* ArtfulAardvark / [Release Task Signup](https://wiki.ubuntu.com/ArtfulAardvark/ReleaseTaskSignup)
 
 ## Wikipidia
 

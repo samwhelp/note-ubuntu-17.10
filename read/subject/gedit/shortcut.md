@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 如何查詢「gedit」的快速鍵
+date: 2017-11-01 17:15:12 +0800
 description: >
   如何查詢「gedit」的快速鍵。
 parent:

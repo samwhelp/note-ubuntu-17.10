@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 如何設定讓「gedit」，可以辨識「big5編碼的檔案」
+date: 2017-11-01 17:15:12 +0800
 description: >
   如何設定讓「gedit」，可以辨識「big5編碼的檔案」。
 parent:

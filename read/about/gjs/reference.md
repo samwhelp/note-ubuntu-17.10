@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 關於「gjs」的「參考資源」
+date: 2017-11-01 17:15:12 +0800
 description: >
   關於「gjs」的「參考資源」。
 parent:

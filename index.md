@@ -1,9 +1,9 @@
 ---
 layout: home
 title: 首頁
+date: 2017-11-01 17:15:12 +0800
 description: >
   Ubuntu 17.10 (Artful Aardvark) 探索筆記 / 首頁
-date: 2017-11-01 17:15:12 +0800
 source_url: '/index.md'
 ---
 

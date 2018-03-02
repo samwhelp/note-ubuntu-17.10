@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 主題
+date: 2017-11-01 17:15:12 +0800
 description: >
   過往問答主題索引。
 source_url: '/read/subject/index.md'

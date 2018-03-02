@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 關於「gedit」的「color scheme」
+date: 2017-11-01 17:15:12 +0800
 description: >
   關於「gedit」的「color scheme」。
 parent:

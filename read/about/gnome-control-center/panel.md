@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 如何找到「gnome-control-center」各個「panel」指令
+date: 2017-11-01 17:15:12 +0800
 description: >
   如何找到「gnome-control-center」各個「panel」指令。
 parent:

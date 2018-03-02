@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 如何透過安裝套件的方式，安裝額外的「gedit-plugin」
+date: 2017-11-01 17:15:12 +0800
 description: >
   如何透過安裝套件的方式，安裝額外的「gedit-plugin」。
 parent:

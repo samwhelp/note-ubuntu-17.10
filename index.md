@@ -162,3 +162,10 @@ source_url: '/index.md'
 ## 關於「影音播放」
 
 * [播放工具整理](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=359478#forumpost359478)
+
+
+## 相關筆記
+
+* [Ubuntu 問答集](http://samwhelp.github.io/book-ubuntu-qna/)
+* [Ubuntu 18.04 (Bionic Beaver) 探索筆記](https://samwhelp.github.io/note-ubuntu-18.04/)
+* [Ubuntu Basic Skill](https://samwhelp.github.io/book-ubuntu-basic-skill/)

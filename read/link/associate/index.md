@@ -13,4 +13,5 @@ source_url: '/read/link/associate/index.md'
 
 * [Ubuntu 問答集](http://samwhelp.github.io/book-ubuntu-qna/)
 * [Ubuntu 18.04 (Bionic Beaver) 探索筆記](https://samwhelp.github.io/note-ubuntu-18.04/)
+* [Ubuntu 20.04 (Focal Fossa) 探索筆記](https://samwhelp.github.io/note-ubuntu-20.04/)
 * [Ubuntu Basic Skill](https://samwhelp.github.io/book-ubuntu-basic-skill/)
